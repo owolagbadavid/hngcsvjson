@@ -21,6 +21,7 @@ Install dependencies
 ```
 
 Running Program
+
 Copy your .csv file into "myInputFile.csv"
 
 Make your sure the "output.csv" file exists and is empty
