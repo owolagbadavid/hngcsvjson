@@ -22,13 +22,16 @@ Install dependencies
 
 Running Program
 Copy your .csv file into "myInputFile.csv"
+
 Make your sure the "output.csv" file exists and is empty
+
 Run the script (index.js)
 ```cmd
   node index.js
 ```
 OR
 click the run icon on your IDE
+
 Your output will be in the "output.csv" file
 
 
