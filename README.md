@@ -25,6 +25,7 @@ Running Program
 Copy your .csv file into "myInputFile.csv"
 
 Make your sure the "output.csv" file exists and is empty
+Make your sure the "output.json" file is empty
 
 Run the script (index.js)
 ```cmd
@@ -33,7 +34,9 @@ Run the script (index.js)
 OR
 click the run icon on your IDE
 
-Your output will be in the "output.csv" file
+Your csv output will be in the "output.csv" file
+
+Your json output will be in the "output.json" file
 
 
 ## Author
